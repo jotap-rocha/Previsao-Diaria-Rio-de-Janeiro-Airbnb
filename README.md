@@ -10,7 +10,9 @@ COMO FUNCIONA O PROJETO
 Primeiro, recomendo a instalação do python e as IDEs Jupyter e Pycharm;
 
 Python -> https://www.python.org/downloads/
+
 Jupyter -> https://jupyter.org
+
 Pycharm -> https://www.jetbrains.com/pycharm/download/#section=windows
 
 O funcionamento começa com o arquivo "Projeto Ciência de Dados.ipynb", executado pelo Jupyter. Nele, eu segui determinados procedimentos, os quais irei citar agora:
