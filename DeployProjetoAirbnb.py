@@ -3,7 +3,7 @@ import streamlit as st
 import joblib
 
 # Esse arquivo não é para ser executado com ctrl + F5.
-# Aperte ctrl + ' para acessar o terminal, use o comando "cd" para entrar na pasta onde está o projeto
+# Acesse o terminal, use o comando "cd" para entrar na pasta onde está o projeto
 # e execute a seguinte linha de código: streamlit run DeployProjetoAirbnb.py
 
 numericos = {'latitude': 0, 'longitude': 0, 'accomodates': 0, 'bathrooms': 0, 'bedrooms': 0, 'beds': 0, 'extra_people': 0,
