@@ -15,6 +15,8 @@ Jupyter -> https://jupyter.org
 
 Pycharm -> https://www.jetbrains.com/pycharm/download/#section=windows
 
+Depois, descompacte as bases de dados para o funcionamento correto do projeto.
+
 O funcionamento começa com o arquivo "Projeto Ciência de Dados.ipynb", executado pelo Jupyter. Nele, eu segui determinados procedimentos, os quais irei citar agora:
 
 - Primeiro de tudo, ler as bases de dados disponíveis através da biblioteca pandas;
